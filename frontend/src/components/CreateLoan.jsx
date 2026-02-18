@@ -204,8 +204,6 @@ const CreateLoanPage = () => {
               className="p-2 rounded bg-gray-700 w-full"
             >
               <option value="">Select Loan Term</option>
-              <option value="3">3 Months</option>
-              <option value="6">6 Months</option>
               <option value="10">10 Months</option>
               <option value="12">12 Months</option>
               <option value="15">15 Months</option>
